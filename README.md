@@ -21,8 +21,8 @@
 <div>
     <h3 align="left">GitHub statistics:</h3>
     <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=thusharabandara&theme=github_dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=false"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharabandara&langs_count=6&theme=github_dark&layout=compact&hide_border=false&count_private=true"/>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=thusharabandara&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=false"/>
+        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharabandara&langs_count=6&theme=github_dark&layout=compact&hide_border=true&count_private=true"/>
     </p>
     <br>
 </div>
