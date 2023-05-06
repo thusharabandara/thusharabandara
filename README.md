@@ -22,8 +22,8 @@
 <!-- Begin: Social -->
 <h3 align="left">:handshake: Connect with him:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thusharabandara" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="thushara-linkedin" height="25"/></a>
-<a href="https://twitter.com/trbandara" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="thushara-twitter" height="25"/></a>
-<a href="https://www.researchgate.net/profile/Thushara-Bandara" target="blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="thushara-researchgate" height="25"/></a> 
+<a href="https://linkedin.com/in/thusharabandara" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="thushara-linkedin" height="25"/></a>
+<a href="https://twitter.com/trbandara" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="thushara-twitter" height="25"/></a>
+<a href="https://www.researchgate.net/profile/Thushara-Bandara" target="_blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="thushara-researchgate" height="25"/></a> 
 </p>
 <!-- Ends: Social -->
