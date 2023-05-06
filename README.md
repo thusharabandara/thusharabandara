@@ -18,14 +18,9 @@
 <!-- Ends: Language and Tools -->
 
 <!-- Begins: Github Statistics -->
-<div>
-    <h3 align="left">GitHub statistics:</h3>
-    <p align="left">
-        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=thusharabandara&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=false"/>
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharabandara&langs_count=6&theme=github_dark&layout=compact&hide_border=true&count_private=true"/>
-    </p>
-    <br>
-</div>
+<h3 align="left">GitHub activity graph:</h3>
+
+[![Thushara's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thusharabandara&theme=github-compact&hide_title=true&hide_border=true&height=400)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Ends: Github Statistics -->
 
 <!-- Begin: Social -->
