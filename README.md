@@ -16,7 +16,7 @@
 <!-- Begins: Github Statistics -->
 <h3 align="left">:chart_with_upwards_trend: GitHub activity graph:</h3>
 
-![Thushara's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thusharabandara&theme=github-compact&hide_title=true&hide_border=true&height=400)
+![Thushara's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thusharabandara&theme=github-compact&hide_title=true&hide_border=true&height=400)
 <!-- Ends: Github Statistics -->
 
 <!-- Begin: Social -->
