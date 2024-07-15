@@ -5,7 +5,7 @@
 
 <!-- Begins: Research Interests -->
 <h3 align="left">:bulb: Research interests:</h3>
-<p> Computer Vision, Image Processing, Multi-Object Tracking, Cyber-Physical Systems, Deep Learning, Data Analytics, and IoT</p>
+<p> Information Fusion, Multi-Object Tracking, Computer Vision, Image Processing, Cyber-Physical Systems, Deep Learning, Data Analytics, and IoT</p>
 <!-- Ends: Research Interests -->
 
 <!-- Begins: Language and Tools -->
