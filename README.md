@@ -1,6 +1,6 @@
 <!-- Begins: Intro -->
 <h1 align="center">Thushara R. Bandara</h1>
-<h4 align="center">An academic and researcher at the University of Peradeniya, Sri Lanka</h4>
+<h4 align="center">A PhD Candidate at RMIT University, Australia and a Former Academic and Researcher at the University of Peradeniya, Sri Lanka</h4>
 <!-- Ends: Intro -->
 
 <!-- Begins: Research Interests -->
