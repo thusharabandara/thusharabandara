@@ -109,8 +109,8 @@ I'm a PhD candidate at RMIT University, Australia, with a background as an acade
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=thusharabandara&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Thushara's GitHub stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thusharabandara&layout=compact&theme=merko&hide_border=true" alt="Top Languages"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=thusharabandara&show_icons=true&theme=merko&hide_border=true" alt="Thushara's GitHub stats"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thusharabandara&layout=compact&theme=merko&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -133,4 +133,4 @@ I'm a PhD candidate at RMIT University, Australia, with a background as an acade
   <a href="https://www.researchgate.net/profile/Thushara-Bandara" target="_blank"><img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="thushara-researchgate" height="30"/></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — feel free to reach out for research collaborations or a chat about anything computer vision!</i></p>
+<p align="center"><i>Thanks for stopping by!</i></p>
