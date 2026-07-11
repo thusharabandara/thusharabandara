@@ -25,7 +25,7 @@
 
 ## 👨‍🔬 About Me
 
-I'm a PhD candidate at RMIT University, Australia, with a background as an academic and researcher at the University of Peradeniya, Sri Lanka. My work sits at the intersection of information fusion, computer vision, and cyber-physical systems — building intelligent systems that can sense, track, and reason about the physical world.
+I'm a PhD candidate at RMIT University, Australia, with a background as an academic and researcher at the University of Peradeniya, Sri Lanka. My work sits at the intersection of information fusion, computer vision, and cyber-physical systems, building intelligent systems that can sense, track, and reason about the physical world.
 
 ## 🔬 Research Interests
 
@@ -52,6 +52,7 @@ I'm a PhD candidate at RMIT University, Australia, with a background as an acade
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -109,16 +110,16 @@ I'm a PhD candidate at RMIT University, Australia, with a background as an acade
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=thusharabandara&show_icons=true&theme=merko&hide_border=true" alt="Thushara's GitHub stats"/>
-  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thusharabandara&layout=compact&theme=merko&hide_border=true" alt="Top Languages"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=thusharabandara&show_icons=true&theme=shadow_red&hide_border=true" alt="Thushara's GitHub stats"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thusharabandara&layout=compact&theme=shadow_red&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thusharabandara&theme=merko&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=thusharabandara&theme=shadow-red&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thusharabandara&theme=react-dark&hide_title=true&hide_border=true&height=300" alt="Thushara's GitHub activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thusharabandara&bg_color=1a1a1a&color=e63946&line=e63946&point=ffffff&hide_title=true&hide_border=true&area=true&height=300" alt="Thushara's GitHub activity graph"/>
 </p>
 
 <!-- ══════════════════════════════════════════════════════════ -->
